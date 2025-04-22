@@ -1,0 +1,14 @@
+apex==0.9.10dev
+einops==0.8.1
+huggingface_hub==0.29.1
+numpy==2.2.3
+opencv_python==4.10.0.84
+Pillow==11.1.0
+scipy==1.15.2
+skimage==0.0
+tensorflow==2.18.0
+tensorflow_datasets==4.9.7
+torch==2.6.0
+torchvision==0.21.0
+tqdm==4.66.5
+wandb==0.19.7
